@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Uganda Electoral Comission </title>
+    <link rel="stylesheet" type="text/css" href="../D3/styles.css" />
+    <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+
+<body>
+    <div id="header">
+        <div id="img"><img src="../D3/imgs/banner.png"></div>
+    </div>
+    <div id="sidebar-left">
+            <a href="mps.html">Members OF Parliament</a>
+    </div>
+    <div id="sidebar-right">
+        <div id="my_dataviz1"></div>
+        <script type="text/javascript" src="../D3/piechart.js"></script>
+
+    </div>
+    <div id="main">
+        <form>
+            <label for="year">Please select a year: </label>
+            <label for="year">Please select a year: </label>
+            <input type="range" min=2001 max=2022 step=5 id="year" value=2021
+                oninput="selected_year.value = year.value">
+            <output name="selected_year" id="selected_year">2021</output>
+        </form>
+        <div id="Area"></div>
+        <script type="text/javascript" src="../D3/chart1.js"></script>
+        <section>
+    </div>
+</body>
+
+</html>

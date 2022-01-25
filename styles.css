@@ -1,0 +1,91 @@
+div#header {
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    }
+    div#img {
+        position: center;
+
+    }
+    div#main {
+    margin-left: 100px;
+    margin-right: 200px;
+    height: 100px;
+    min-height: fill;
+    }
+    div#sidebar-left {
+    width: 100px;
+    position: absolute;
+    top: 109px;
+    min-height: 400px;
+    }
+    div#footer {
+    border: 2px solid red;
+    }
+    svg text {
+        fill: rgb(0, 0, 0);
+        font: 12px sans-serif;
+        text-anchor: end;
+     }
+     div#sidebar-right{
+        position: absolute;
+        width: 120px;
+        margin-right: 1000px;
+        margin-left: 900px;
+        min-height: 400px;
+         
+     }
+       div#Area{
+        width: 1000px;
+        height: 600px;
+        margin: auto;
+        
+     }
+     div#Area2{
+      width: 1000px;
+      height: 600px;
+      margin: auto;
+   }
+     .arc path {
+      stroke: #fff;
+    }
+     div#Area2{
+      width: 500px;
+      height: 600px;
+      margin: auto;
+      }
+     line#limit {
+        stroke: #FED966;
+        stroke-width: 3;
+        stroke-dasharray: 3 6;
+      }
+      .grid path {
+        stroke-width: 0;
+      }
+      
+      .grid .tick line {
+        stroke: #9FAAAE;
+        stroke-opacity: 0.3;
+      }
+      text.divergence {
+        font-size: 14px;
+        fill: #2F4A6D;
+      }
+      
+      text.value {
+        font-size: 14px;
+      }
+      
+      text.title {
+        font-size: 22px;
+        font-weight: 600;
+      }
+      
+      text.label {
+        font-size: 14px;
+        font-weight: 400;
+      }
+      
+      text.source {
+        font-size: 10px;
+      }
+     

@@ -1,0 +1,66 @@
+{
+    "2021":{
+        "AMURIAT OBOI PATRICK": 337589,
+        "KABULETA KIIZA JOSEPH": 45424,
+        "KALEMBE NANCY LINDA": 38772,
+        "KATUMBA JOHN": 37554,
+        "KYAGULANYI SSENTAMU ROBERT": 3631437,
+        "MAO NORBERT": 57682,
+        "MAYAMBALA WILLY": 15014,
+        "MUGISHA MUNTU GREGG": 67574,
+        "MWESIGYE FRED": 25483,
+        "TUMUKUNDE HENRY KAKURUGU": 51392,
+        "YOWERI MUSEVENI TIBUHABURWA KAGUTA": 6042898,
+        "Valid Votes": 10350819,
+        "Invalid Votes": 393500,
+        "Total Votes": 10744319,
+        "Spoilt Votes": 29913  
+    },
+    "2016":{
+        "Abed Bwanika": 89005,
+        "Amama Mbabazi": 136519,
+        "Baryamureeba Venansius": 52798,
+        "Benon Buta Biraaro": 25600,
+        "Kizza Besigye Kifefe": 3508687,
+        "Mabirizi Joseph ": 24498,
+        "Maureen Faith Kyalya Waluube": 42833,
+        "Yoweri Kaguta Museveni": 5971872,
+        "Valid Votes": 9851812,
+        "Invalid Votes": 477319,
+        "Total Votes": 10329131,
+        "spoilt votes": 29005
+    },
+    "2011":{
+        "Yoweri Museveni": 5428369,
+        "Kizza Besigye": 2064963,
+        "Norbert Mao": 147917,
+        "Olara Otunnu": 125059,
+        "Beti Kamya": 52782,
+        "Abed Bwanika": 51708,
+        "Jaberi Bidandi Ssali": 34688,
+        "Samuel Lubega": 2726,
+        "Valid votes":	7938212,
+        "Invalid votes": 334548,
+        "Total votes":	8272760
+    },
+    "2006":{
+        "Yoweri Museveni": 4109449,
+        "Kizza Besigye": 2592954,
+        "John Ssebaana Kizito": 109583,
+        "Abed Bwanika": 5874,
+        "Miria Obote": 57071,
+        "Valid votes": 6934931,
+        "Invalid votes": 295525,
+        "Total votes": 7230456
+    },
+    "2001":{
+        "Yoweri Museveni": 5123360,
+        "Kizza Besigye": 2055795,
+        "Aggrey Awori": 103915,
+        "Kibirige Mayanja": 3790,
+        "Francis Bwengye": 22751,
+        "Karuhanga Chapaa": 10080,
+        "Valid votes": 7389691,
+        "Invalid votes": 186453
+    }
+}
