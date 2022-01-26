@@ -69,7 +69,7 @@ function draw(year) {
 d3.queue()
   .defer(d3.csv, 'presidents.csv')
   .defer(d3.csv, 'presidents_2011.csv')
-  .defer(d3.csv, 'presidents_2011.csv')
+  .defer(d3.csv, 'presidents2011.csv')
   /*.defer(d3.csv, 'monthly_data_2011.csv')
   .defer(d3.csv, 'monthly_data_2010.csv')
   .defer(d3.csv, 'monthly_data_2009.csv')*/
